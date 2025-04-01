@@ -7,9 +7,9 @@ For cross-platform mobile app development
 Git & GitHub for code management and collaboration
 # # Backend: 
 Node.js with Express.js or Firebase-for handling APIs and database
-# # Database: 
+#  Database: 
 Backend service taught in the bootcamp
-# # Deployment:
+# #Deployment:
 Expo-for publishing and testing the app
 # KEY FEATURES: 
 # # User Authentication: 
@@ -28,4 +28,4 @@ Offers a customizable UI with light and dark themes for better user experience.
 This project is developed as part of a 28-day mobile app development bootcamp, focusing on building a structured
 and user-friendly challenge tracker to enhance daily productivity.
 # DETAILS:
-A24126552008-A.SHREEVAISHNAVI-1/4CSM-A-asv610914@gmail.com
+A24126552008-A.SHREEVAISHNAVI-1/4CSM-A- asv610914@gmail.com
