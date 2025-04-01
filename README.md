@@ -9,7 +9,7 @@ Git & GitHub for code management and collaboration
 Node.js with Express.js or Firebase-for handling APIs and database
 #  Database: 
 Backend service taught in the bootcamp
-# #Deployment:
+# Deployment:
 Expo-for publishing and testing the app
 # KEY FEATURES: 
 #  User Authentication: 
