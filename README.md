@@ -94,15 +94,3 @@ By simplifying the goal-tracking process, DailyDash transforms short-term tasks 
 
 ---
 
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/DailyDash.git
-cd DailyDash
-
-# Install dependencies
-npm install
-
-# Start the development server
-npx expo start
