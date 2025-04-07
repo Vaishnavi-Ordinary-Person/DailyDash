@@ -18,11 +18,8 @@ DailyDash is a **24-hour challenge tracker** designed to help users set, track, 
   - [### 📊 Progress Dashboard](#-progress-dashboard)
   - [### 🌙 Dark Mode](#-dark-mode)
 - [## 📸 Screenshots](#-screenshots)
-- [## 📦 Installation](#-installation)
-- [## 📈 Usage](#-usage)
-- [## 👨‍💻 Contributing](#-contributing)
-- [## 🪪 License](#-license)
-- [## 📬 Contact](#-contact)
+  
+
 
 ---
 
